@@ -25,10 +25,10 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 According to our total summary table the varaince summary for all lots as a whole (62.29) meets the criteria , However by looking at the lot summary table, Lot3 has a variance of 170.29 pounds per square inch which exceeds 100 and doesn't meet design criteria.The reason for keeping the variance of the total low is that the variances in lots 1 and 2 are way lower than 100 which affects the total variance for the manufacturer.
 
-Total Summary Table
+## Total Summary Table
 ![Image](https://github.com/faridah-m/MechaCar_Statistical_Analysis/blob/main/total_summary.png)
 
-Lot Summary Table
+## Lot Summary Table
 ![Image](https://github.com/faridah-m/MechaCar_Statistical_Analysis/blob/main/lot_summary.png)
 
 # T-Tests on Suspension Coils
